@@ -6,7 +6,7 @@
 import java.util.regex.Pattern;
 import java.util.Scanner;
 
-public class Targa {
+public class Ip {
     public static void targa() {
         String targa = "AA001BF";
 
